@@ -1,5 +1,5 @@
 <div align="center">
-<img src="xeon.jpg" alt="derkkk" width="170" />
+<img src="xeon.jpg" alt="derkkk" width="200" />
 
 ## D3RKKK🌿
 
