@@ -1,13 +1,7 @@
-#### UPDATE : REPLIT ADDED SO THERES NO NEED OF TERMUX🔥 COPY THE SESSION AND PASTE IN SESSION.JSON
-
-#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](https://youtu.be/vt9TbOuyhgI) OR ELSE MOST PROBABLY YOU WILL GET ERROR 
-
-
-
 <div align="center">
-<img src="xeon.jpg" alt="Pepe" width="170" />
+<img src="xeon.jpg" alt="derkkk" width="170" />
 
-## P3P3 SIR 🌝💝
+## D3RKKK🌿
 
 </div>
 
@@ -15,7 +9,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/MRBDARK"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917902682601?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-DERK-DARK.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
@@ -44,12 +38,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/pepesir/PEPE-SIR/blob/master/session.json#L1)
-
-## `SETTING`
-
-- CHANGE OWNER NUMBER [Here](https://github.com/pepesir/PEPE-SIR/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/pepesir/PEPE-SIR/blob/master/index.js#L138)
+[`Click Here`](https://github.com/MRBDARK/DERKKK-SER/blob/master/session.json#L1)
 
 # Installation
 ## Clone Repo & Installation dependencies
